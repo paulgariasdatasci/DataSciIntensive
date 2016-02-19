@@ -1,2 +1,2 @@
 # DataSciIntensive
-Sample files for datasciIntensive
+Sample files for datasciIntensive course
